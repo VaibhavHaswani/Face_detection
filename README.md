@@ -1,8 +1,8 @@
 FACE DETECTION
 ==============
-- Package Used : OpenCV
+Package Used : OpenCV
 
-### Methods of interaction
+### Methods of interaction-
 
 * face_detection.py file
 * face_detection notebook file
